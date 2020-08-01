@@ -29,4 +29,7 @@ NOTE: User can select and deselect any filter, for example if user clicked on 20
 2. Once clonned do npm i to install required node_modules.
 3. Once node_modules installed do run npm start, once it get compiled successfully then open http://localhost:3000/ in browser.
 
+# App live link
+https://loving-goodall-e6e5e0.netlify.app/
+
 NOTE: Maximum wrote the optimized code.
