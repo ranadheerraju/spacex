@@ -62,7 +62,7 @@
   display: grid;
   grid-template-columns: auto auto;
   grid-gap: 15px;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 .active {
   background-color: $secondaryColor;
