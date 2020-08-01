@@ -148,7 +148,8 @@ ul {
 .footerdiv {
   @include flex(row, center, center);
 }
-@media only screen and (max-width: 600px) {
+
+@media (max-width: 600px) {
   .main-spacex-grid-container {
     margin-left: 0%;
     margin-top: 20px;
